@@ -1,0 +1,8 @@
+{
+  "name": "Nova",
+  "description": "Personal AI Assistant named Nova featuring an AI Video Maker with text/image/story generation, audio mixer, preview & watermark-free export (no credits), voice input/output in Urdu, Hindi, English, 'Hey Nova' wake word, and persistent memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
